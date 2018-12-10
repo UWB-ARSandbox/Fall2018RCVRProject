@@ -5,7 +5,7 @@ A spinoff of the VR/AR/PC/RC teamwork done on and before Summer2018CRCSProject. 
 ### Setting up the RC Car
 1. Ensure AAA batteries are fresh; turn on switch on battery pack.
 2. Connect large battery pack to rPi with USB cable.
-3. Connect PC wifi to SungGate.
+3. Connect PC wifi to SSID: `Sung-net` Password: `Sungvibe`
 4. Use a command prompt to open 3 separate SSH connections to the rPi: `ssh 172.24.1.1 -l pi` Password: `SungGate`
 4. At the first terminal, type `./startLeftCam.sh`
 5. At the second terminal, type `./startRightCam.sh`
