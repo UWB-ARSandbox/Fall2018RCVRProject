@@ -20,7 +20,7 @@ A spinoff of the VR/AR/PC/RC teamwork done on and before Summer2018CRCSProject. 
 3. For keyboard operation without an MR headset:
   a. Select the `System/VR` GameObject in the hierarchy and disable `Auto Load` on the VRTK_SDK Manager (Script) Component.
   b. Select the `RCCar/CarFixture/MainCamera` GameObject in the heirarchy and enable it.
-4. Press play and you will appear to be viewing the car scene from above. Controls are listed above you.
+4. Press play and you will appear to be viewing the car scene from above (MR Mode) or in the cockpit (Keyboard Mode). MR controls are listed on a panel nearby. Keyboard controls are the arrow keys.
 ## Modifying the Scene for Troubleshooting
 Select `RCCar` GameObject in Hierarchy:
 - Numeral values on DirectRCControl_TCP Script adjust rate of forward/turning speed with and without high gear active. Disable this script to test video streaming without RC control.
