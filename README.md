@@ -9,7 +9,7 @@ A spinoff of the VR/AR/PC/RC teamwork done on and before Summer2018CRCSProject. 
 4. Use a command prompt to open 3 separate SSH connections to the rPi: `ssh 172.24.1.1 -l pi` Password: `SungGate`
 4. At the first terminal, type `./startLeftCam.sh`
 5. At the second terminal, type `./startRightCam.sh`
-  -Note: These connections can be tested in a browser at: `http://172.24.1.1:8080/?action=stream` (or Port: 8070 for Right Camera)
+- Note: These connections can be tested in a browser at: `http://172.24.1.1:8080/?action=stream` (or Port: 8070 for Right Camera)
 6. At the third terminal, type `sudo python sungRover_TCP.py` and follow instructions.
 ### Setting up a Windows MR Headset
 1. Windows MR and SteamVR apps need to be installed, as well as SteamVR's Windows MR support.
