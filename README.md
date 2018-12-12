@@ -1,6 +1,7 @@
 # Fall2018RCVRProject
 ## Summary
 A spinoff of the VR/AR/PC/RC teamwork done on and before Summer2018CRCSProject. The goal was to refine motion and interaction between a simple Unity scene and the RCCar, using an MR headset or keyboard. The scene is isolated from ASL and Orientation data in order to better troubleshoot and operate the RCCar during maintenance or upgrades.
+More information: https://docs.google.com/document/d/1Ibl1n827gBUOSSv8uxn19rc6gJQeWYWg8i9vjRXo-wo/edit?usp=sharing
 ## How To Operate the RC Car
 ### Setting up the RC Car
 1. Ensure AAA batteries are fresh; turn on switch on battery pack.
